@@ -1,6 +1,9 @@
 # Unity-2017.2-click-on-models-when-using-Vuforia-6.5
 Unity 2017.2 click on models when using Vuforia 6.5
 
+To show all videos and download  all unity pagackes for free must be Subscriber youtube channel 
+https://www.youtube.com/channel/UCNJVG9_IebHe-NF-K_Y8Grw?sub_confirmation=1
+
 [![Watch the video](https://img.youtube.com/vi/HlQOrpsiWI0/0.jpg)](http://youtu.be/HlQOrpsiWI0)
 
 
