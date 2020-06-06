@@ -54,3 +54,7 @@ public class Clicks : MonoBehaviour {
 	}
 }
 
+
+Can be start web Augmented reality
+
+Https://Webxr.edafait.com 
